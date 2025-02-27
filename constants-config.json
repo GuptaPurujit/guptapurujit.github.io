@@ -129,8 +129,8 @@
 	"full-width-social-embeds": false,
 	"optimize-images": true,
 	"redirects": {
-    "/personal-notes/": "/collections/personal/",
-    "/blurbs.html": "/collections/blurbs/",
-		"/gym/": "/collections/gym/"
+    "/personal-notes/": "/collections/personal/index.html",
+    "/blurbs/": "/collections/blurbs/index.html",
+		"/gym/": "/collections/gym/index.html"
 	}
 }
