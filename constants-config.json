@@ -1,5 +1,5 @@
 {
-	"database-id": "1a78b7d996dd8037abccf76c99c53ef8",
+	"database-id": "1a78b7d996dd8043989eeb9b938c7d77",
 	"author": "Purujit Gupta",
 	"tracking": {
 		"google-analytics": {
@@ -129,8 +129,6 @@
 	"full-width-social-embeds": false,
 	"optimize-images": true,
 	"redirects": {
-    "/personal-notes/": "/collections/personal/index.html",
-    "/blurbs/": "/collections/blurbs/index.html",
-		"/gym/": "/collections/gym/index.html"
+    "/blurbs.html": "/collections/blurbs/"
 	}
 }
