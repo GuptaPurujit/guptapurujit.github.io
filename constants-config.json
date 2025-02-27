@@ -131,6 +131,6 @@
 	"redirects": {
     "/personal-notes/": "/collections/personal/",
     "/blurbs.html": "/collections/blurbs/",
-		"/gym/": "/collections/gym/",
+		"/gym/": "/collections/gym/"
 	}
 }
